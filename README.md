@@ -23,7 +23,7 @@ While the organization maintains a customer-facing tracking portal, operational 
 This project delivers a full-lifecycle systems investigation to evaluate, design, and architect **AI-augmented self-service workflows, automated dispatch scheduling, and intelligent triage systems** without compromising the high-empathy communication required in hospice care.
 
 +-------------------------------------------------------------------------------------------------+
-|                                 CORE OPERATIONAL BOTTLENECK TRIAGE                              |
+|                             CORE OPERATIONAL BOTTLENECK TRIAGE                                  |
 +-----------------------------------+--------------------------------+----------------------------+
 | 1. Status Inquiries & Anxiety    | 2. Reverse Logistics Friction  | 3. Malfunction Misdiagnosis|
 | 35-45% of inbound call volume.    | Multi-touch coordination.      | 25-30% false-alarm calls.  |
@@ -98,7 +98,5 @@ The project's architectural recommendations are evaluated against concrete opera
 * [ ] **Phase 3: AI Technology Stack Evaluation & Risk Framework**
   * Evaluating LLM/NLP middleware, data governance, and HIPAA-compliant architecture options for protected health operations.
 * [ ] **Phase 4: Functional Prototyping, Triage Decision Matrix & Final Advisory**
-  * Final business report detailing cost-benefit analysis (ROI), transition roadmaps, and change
----
-
-## Core Operational Bottlenecks & Root-Cause Analysis
+  * Final business report detailing cost-benefit analysis (ROI), transition roadmaps, and change management procedures for CSR staff
+     
