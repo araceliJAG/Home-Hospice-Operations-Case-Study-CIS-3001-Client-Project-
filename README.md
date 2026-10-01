@@ -22,16 +22,6 @@ While the organization maintains a customer-facing tracking portal, operational 
 
 This project delivers a full-lifecycle systems investigation to evaluate, design, and architect **AI-augmented self-service workflows, automated dispatch scheduling, and intelligent triage systems** without compromising the high-empathy communication required in hospice care.
 
-+-------------------------------------------------------------------------------------------------+
-|                             CORE OPERATIONAL BOTTLENECK TRIAGE                                  |
-+-----------------------------------+--------------------------------+----------------------------+
-| 1. Status Inquiries & Anxiety    | 2. Reverse Logistics Friction  | 3. Malfunction Misdiagnosis|
-| 35-45% of inbound call volume.    | Multi-touch coordination.      | 25-30% false-alarm calls.  |
-| Tracking portal ignored due to    | Grief-sensitive pickup timing  | Basic operational errors   |
-| emotional stress and urgency.     | requires manual CSR calls.     | trigger unnecessary trucks.|
-+-----------------------------------+--------------------------------+----------------------------+
-
-
 ### 1. Delivery & Pickup Inquiry Saturation ("Where is my equipment?")
 * **Symptom:** Inbound phone queues are continuously saturated with family members and hospice nurses requesting real-time Estimated Time of Arrival (ETA) updates.
 * **Root Cause:** A digital self-service tracking portal exists, but under high emotional stress, caregivers default to calling. The portal lacks proactive push communication, forcing CSRs to manually look up driver manifests and bridge dispatch radios while holding callers on the line.
